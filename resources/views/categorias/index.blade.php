@@ -23,7 +23,7 @@
                     <a class="nav-link text-dark " href="/categorias" tabindex="-1" aria-disabled="true">Categorias</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark " href="/idiomas" tabindex="-1" aria-disabled="true">Idiomas</a>
+                    <a class="nav-link text-dark " href="/idiomas" tabindex="-1" aria-disabled="true">Idiomas Nuevos</a>
                 </li>
             </ul>
         </div><br>
